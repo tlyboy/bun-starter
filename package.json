@@ -1,0 +1,13 @@
+{
+  "name": "bun-starter",
+  "private": true,
+  "type": "module",
+  "module": "index.ts",
+  "devDependencies": {
+    "@types/bun": "latest",
+    "prettier": "^3.8.0"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  }
+}
