@@ -2,19 +2,19 @@
 
 🚀 Bun starter
 
-## Install
+## 安装
 
 ```bash
 bunx degit tlyboy/bun-starter my-project
 ```
 
-## Usage
+## 使用说明
 
 ```bash
 bun install
 bun run index.ts
 ```
 
-## License
+## 使用许可
 
 [MIT](https://opensource.org/licenses/MIT) © Guany
